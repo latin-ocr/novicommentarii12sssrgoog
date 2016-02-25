@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novicommentarii12sssrgoog/novicommentarii12sssrgoog_0517.png"; bbox 0 0 4475 5900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2381 1437 2730 2023">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2381 1437 2730 2023">
+     <span class='ocr_line' id='line_1_1' title="bbox 2381 1437 2730 2023; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 2381 1437 2730 2023; x_wconf 59' lang='grc' dir='ltr'><em>,ἐξ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1439 524 3694 5332">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1439 524 3694 5332">
+     <span class='ocr_line' id='line_1_2' title="bbox 1439 524 3694 5332; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 1439 524 3694 5332; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1825 112 3606 222">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1825 112 3641 222">
+     <span class='ocr_line' id='line_1_3' title="bbox 1825 112 3606 222; baseline 0.001 -6"><span class='ocrx_word' id='word_1_3' title='bbox 1825 125 2108 218; x_wconf 55' lang='grc' dir='ltr'><em>ίὺιήὶη,,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2136 156 2371 218; x_wconf 62' lang='lat' dir='ltr'><em>Nom</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2383 151 2539 222; x_wconf 61' lang='grc' dir='ltr'><em>,Λιῑ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2585 149 2721 218; x_wconf 68' lang='lat' dir='ltr'><em>dc.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2753 142 2949 222; x_wconf 56' lang='lat' dir='ltr'><em>feb.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2981 112 3297 219; x_wconf 48' lang='lat' dir='ltr'><em>Joniff.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 3324 148 3641 218; x_wconf 68' lang='lat' dir='ltr'><em>JabJV..</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
